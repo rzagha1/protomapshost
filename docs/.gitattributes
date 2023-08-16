@@ -1,0 +1,2 @@
+uspts2.pmtiles filter=lfs diff=lfs merge=lfs -text
+uspts.pmtiles filter=lfs diff=lfs merge=lfs -text
